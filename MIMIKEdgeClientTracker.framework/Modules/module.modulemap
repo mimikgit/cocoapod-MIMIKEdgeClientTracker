@@ -1,0 +1,4 @@
+framework module MIMIKEdgeClientTracker {
+  header "MIMIKEdgeClientTracker-Swift.h"
+  requires objc
+}
