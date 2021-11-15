@@ -13,7 +13,7 @@ Pod::Spec.new do |s|
   s.summary      = "mimik tracker service library"
 
   s.description  = <<-DESC
- MIMIKEdgeClientProfile cocoapod is a Cocopods.org distributed framework that provides APIs to abstract away the complexities of interacting with mimik tracker service.
+ MIMIKEdgeClientTracker cocoapod is a Cocopods.org distributed framework that provides APIs to abstract away the complexities of interacting with mimik tracker service.
   DESC
 
   s.homepage     = "https://github.com/mimikgit/cocoapod-MIMIKEdgeClientTracker"
