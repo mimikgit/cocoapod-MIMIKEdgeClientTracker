@@ -6,27 +6,27 @@
 	<dict>
 		<key>Headers/MIMIKEdgeClientTracker-Swift.h</key>
 		<data>
-		Om67KWRJn0Gcvb7THhh6avwIXbY=
+		Su5wb4dOgG28ySafGnEDOOu8EGY=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		ogb6Lgw//2z+tEqT4rt4RGiTohs=
+		y+gWvLjdDL5i6Qm0iYFxLhNvQ60=
 		</data>
 		<key>Modules/MIMIKEdgeClientTracker.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		Zrb1bhXrKWdNMlI1DAFrvATMZEw=
+		MpHVshcetUvbKwPQELpm0rPKVRg=
 		</data>
 		<key>Modules/MIMIKEdgeClientTracker.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		XTmPXupnFx6t/s6fkKeOPbDO3ZY=
+		22Q/qgrKCJxwo0cFcuGe9a0JxA4=
 		</data>
 		<key>Modules/MIMIKEdgeClientTracker.swiftmodule/arm64.swiftdoc</key>
 		<data>
-		Zrb1bhXrKWdNMlI1DAFrvATMZEw=
+		MpHVshcetUvbKwPQELpm0rPKVRg=
 		</data>
 		<key>Modules/MIMIKEdgeClientTracker.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		XTmPXupnFx6t/s6fkKeOPbDO3ZY=
+		22Q/qgrKCJxwo0cFcuGe9a0JxA4=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -39,35 +39,35 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			vGnxB8kDN+YCeHd6tUZ6n4vqzoPyCW6tin+it7CRab0=
+			n9a8Hby/mu+tXK7allOcGF9hi/+TWG7ndgUgKCrZ5L0=
 			</data>
 		</dict>
 		<key>Modules/MIMIKEdgeClientTracker.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			NbcRwlRSCpvGIP8SxeMRJAyJ0uWZCzKd6Y8KNxtJxmM=
+			RSLhPWYQ72LKWIU2O7cDsAajO0VE1+cgzO2ESnv6QUE=
 			</data>
 		</dict>
 		<key>Modules/MIMIKEdgeClientTracker.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			eAtd+bw/PtrHCkFCwbAwwQhPl2WDWP6uu9zj1MxZ4tQ=
+			9CbaExXtxylcEGTJC12kUUWkvxevwPzGfJzvqVyt3+I=
 			</data>
 		</dict>
 		<key>Modules/MIMIKEdgeClientTracker.swiftmodule/arm64.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			NbcRwlRSCpvGIP8SxeMRJAyJ0uWZCzKd6Y8KNxtJxmM=
+			RSLhPWYQ72LKWIU2O7cDsAajO0VE1+cgzO2ESnv6QUE=
 			</data>
 		</dict>
 		<key>Modules/MIMIKEdgeClientTracker.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			eAtd+bw/PtrHCkFCwbAwwQhPl2WDWP6uu9zj1MxZ4tQ=
+			9CbaExXtxylcEGTJC12kUUWkvxevwPzGfJzvqVyt3+I=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
