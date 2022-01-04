@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "MIMIKEdgeClientTracker"
-  s.version      = "13.0.1"
+  s.version      = "13.2.1"
   s.summary      = "mimik tracker service library"
 
   s.description  = <<-DESC
@@ -24,11 +24,11 @@ Pod::Spec.new do |s|
 
   s.vendored_frameworks = "MIMIKEdgeClientTracker.framework"
 
-  s.dependency 'MIMIKEdgeClient', '~> 13.0.1'
-  s.dependency 'MIMIKEdgeClientProfile', '~> 13.0.1'
+  s.dependency 'MIMIKEdgeClient', '~> 13.2.1'
+  s.dependency 'MIMIKEdgeClientProfile', '~> 13.2.1'
   s.dependency 'Alamofire', '~> 5.4.4'
   s.dependency 'SwiftyJSON', '~> 5.0.1'
 
   s.platform = 'ios', '13.6'
-  s.swift_version = '5.4'
+  s.swift_version = '5.5'
 end
