@@ -6,19 +6,19 @@
 	<dict>
 		<key>Headers/MIMIKEdgeClientTracker-Swift.h</key>
 		<data>
-		4ERYBAE3s8i78VUytUScgRQoIPM=
+		ol/juioRxoIB7p0hsM3G6FEY4Kc=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		SiHlF+jzhB5xk9S4SLGpd2NLRdI=
+		MQTk/l5NMLK9UUXazGQ1KRQERgs=
 		</data>
 		<key>Modules/MIMIKEdgeClientTracker.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		jQGVaZRkfe35kn5kIDc/2vB+EiU=
+		rUenLfddkOFaJ/47bR+NtSqkWCQ=
 		</data>
 		<key>Modules/MIMIKEdgeClientTracker.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		ukMRjMeHppQwPsfOP2WLII2Qtxk=
+		lyQtDylQ05ChhneRVoqTfsIrdU0=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -31,21 +31,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			nl4J4jTsQHSy/2/aJ8Hr5dDssBFYYoZwvV1cz24dOgI=
+			vfcgRc9r8BtRAnWdd0mBFW04XZ9VNKvyfQV2AgCEpTg=
 			</data>
 		</dict>
 		<key>Modules/MIMIKEdgeClientTracker.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			E05VDbKHvM6Qyz/sfxaigimYTBEZel1HcWtc3hXd6xU=
+			p8gXLnM+e045JKNHckR3Wtr1GWakRO+vqksvZ5PqJQg=
 			</data>
 		</dict>
 		<key>Modules/MIMIKEdgeClientTracker.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			iwPfw+vBrgg9b5lZvTtw9uzMsGu2Z6KspXZXsDsuGBg=
+			MTCOG1REfrS9waCYUNAQqgcEBebqeW8YnSQh9ZCkW38=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
